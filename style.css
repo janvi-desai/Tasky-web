@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #ebf2ff;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+.addbut {
+    border-radius: 25px;
+}
+.buttun {
+    border-radius: 15px;
+}
+
+.crd {
+    height: 200px;
+}
